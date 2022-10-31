@@ -8,5 +8,5 @@
 | Coffee Shop | [Link](https://coffeeeshopragibs.netlify.app/)  |
 | Band Site | [Link](https://brandsiteragibs.netlify.app/)  |
 | Brain Flix | [Link](https://brainflix-ragib.herokuapp.com/)  |
-| Dawat | [WIP]()  |
+| Dawat | [Link](https://react-dashboard-8dd22.web.app/)  |
 
